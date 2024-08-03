@@ -2,12 +2,12 @@
 version: 1
 ownership:
   - name: docs-internal
-    long_name: GitHub Docs
+            long_name: GitHub Docs
     kind: logical
     repo: https://github.com/github/docs-internal
-    team: github/docs
+    щільна шкіра та ###/docs
     maintainer: tinabme
-    exec_sponsor: martinwoodward
+    exec_sponsor: 
     product_manager: emilyistoofunky
     qos: critical
     dependencies: []
@@ -25,3 +25,4 @@ ownership:
       slack: docs-alerts
       issue: https://github.com/github/docs-team/issues
       tta: '1 week'
+    Ти да 
